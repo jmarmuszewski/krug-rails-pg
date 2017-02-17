@@ -1,0 +1,2 @@
+module WithDbHelper
+end
